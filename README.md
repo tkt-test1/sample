@@ -27,7 +27,3 @@
 
 各言語のサンプルは、対応する開発環境が整っていれば、単体で実行できます。
 
-### Ruby
-
-```bash
-ruby advanced_data_processor.rb
