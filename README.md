@@ -1,3 +1,5 @@
+AIでテスト用につくりました
+
 # 📚 プログラミング言語サンプル集
 
 [![GitHub](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPOSITORY_NAME?style=social)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME)
